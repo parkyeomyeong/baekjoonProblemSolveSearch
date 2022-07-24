@@ -11,7 +11,7 @@ import csv
 study_group = ["qkrduaud", "tmdgk95", "vertvert123", "wt3759", "donadio912",
                "tlsalfla96", "juneseok0107", "min077", "gahee3839", "wldk1217", "parksoeun", "bb2880"]
 
-problems = ["2742", "11021", "11022", "2438", "2439"]
+problems = ["11654", "11720", "10809", "2675", "1157"]
 
 
 def app():
